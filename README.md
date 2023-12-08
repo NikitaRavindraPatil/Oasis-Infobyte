@@ -21,7 +21,7 @@ Web Developement Internship
 
 5. To Do Web App:
 
-    In this project, users can add tasks. They can see a list of all tasks, mark tasks as done or not done, and even delete tasks that are finished.
+   In this project, users can add tasks. They can see a list of all tasks, mark tasks as done or not done, and even delete tasks that are finished.
 
    Languages : HTML / CSS / JS
 
@@ -30,8 +30,8 @@ Web Developement Internship
   
   7. Login Authentication:
    
-    In this project, users can make their own accounts, log in if they already have one, and sign up if they're new. If users forget their password, they can click "forgot password" and set a new one.
+   In this project, users can make their own accounts, log in if they already have one, and sign up if they're new. If users forget their password, they can click "forgot password" and set a new one.
 
-     Languages : HTML / CSS / JS
+   Languages : HTML / CSS / JS
 
-     IDE : VS code
+   IDE : VS code
