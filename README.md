@@ -9,10 +9,12 @@ Web Developement Internship
 
    IDE : VS code
 
+
 2. Tribute Page:
    Languages : HTML / CSS 
 
    IDE : VS code
+
 
 3. To Do Web App:
    In this project, users can add tasks. They can see a list of all tasks, mark tasks as done or not done, and even delete tasks that are finished.
@@ -21,6 +23,7 @@ Web Developement Internship
 
    IDE : VS code
 
+  
   4. Login Authentication:
     In this project, users can make their own accounts, log in if they already have one, and sign up if they're new. If users forget their password, they can click "forgot password" and set a new one.
 
